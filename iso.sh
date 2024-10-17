@@ -15,7 +15,7 @@ color_normal=black/white
 color_highlight=light-gray/black
 
 
-menuentry "PotatoOS"  --id pos{
+menuentry "greendogos"  --id pos{
 	multiboot /boot/potatoos.kernel
 }
 EOF
